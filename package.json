@@ -1,0 +1,15 @@
+{
+  "name":         "Loki",
+  "version":      "0.1",
+  "description":  "An object that enables low level introspection into a running Io VM.",
+  "author":       "Marc Fauconneau",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Loki"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
